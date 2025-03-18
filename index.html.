@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arshdeep Singh Grewal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Arshdeep Singh Grewal</h1>
+    <p>Sales & Operations Professional</p>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#resume">Resume</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Motivated and adaptable professional with expertise in sales, logistics, and property management. Over 3 years of experience leading teams, optimizing business operations, and ensuring customer satisfaction. Skilled in managing inventory, coordinating schedules, and improving processes for efficiency.
+    </p>
+    <p>
+      Additionally experienced in property management as a side business, handling rental coordination, maintenance, and tenant relations.
+    </p>
+  </section>
+  <section id="resume">
+    <h2>Resume</h2>
+    <h3>Core Skills</h3>
+    <ul>
+      <li>Sales & Customer Relationship Management</li>
+      <li>Logistics & Supply Chain Operations</li>
+      <li>Team Leadership & Staff Training</li>
+      <li>Inventory Management & Procurement</li>
+      <li>Property Management & Rental Coordination</li>
+      <li>AI & Technology Integration</li>
+      <li>Negotiation & Conflict Resolution</li>
+      <li>Process Optimization & Workflow Efficiency</li>
+    </ul>
+    <h3>Professional Experience</h3>
+    <p>
+      <strong>Assistant Manager</strong> | Domino's, Halifax, NS (Sep 2021 - Mar 2024)
+    </p>
+    <ul>
+      <li>
+        Managed daily operations, including inventory, staff scheduling, and customer service.
+      </li>
+      <li>
+        Trained and led a team to improve efficiency and service quality.
+      </li>
+      <li>
+        Implemented process improvements that enhanced workflow and reduced costs.
+      </li>
+    </ul>
+    <h3>Education & Certifications</h3>
+    <p>
+      Diploma in Supply Chain & Logistics Management - Fanshawe College, London, ON (2020 - 2021)
+    </p>
+    <p>Carson Dunlop Home Inspection Certification (In Progress)</p>
+  </section>
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:arshgrewal27@gmail.com">arshgrewal27@gmail.com</a></p>
+    <p>Phone: <a href="tel:+17826413463">(782) 641-3463</a></p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Arshdeep Singh Grewal. All rights reserved.</p>
+  </footer>
+</body>
+</html>
