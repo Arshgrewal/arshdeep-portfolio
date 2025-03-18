@@ -106,3 +106,82 @@ Professional profile of Arshdeep Singh Grewal
   <link rel="stylesheet" href="styles.css">
 </head>
 styles.css.
+/* Import the font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* Global resets and font settings */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #f0f4f8, #d9e2ec);
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header with gradient background and centered text */
+header {
+  background: linear-gradient(135deg, #4CAF50, #2E7D32);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Navigation styling with hover transitions */
+nav {
+  background: #263238;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #FFD700; /* Gold color effect on hover */
+  transform: scale(1.1);
+}
+
+/* Section styling for content areas with padding, rounded corners, and a shadow effect */
+section {
+  max-width: 800px;
+  margin: 30px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Style the section headings with a subtle colored border */
+section h2 {
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+/* Footer styling with consistent branding */
+footer {
+  text-align: center;
+  background: #263238;
+  color: #fff;
+  padding: 10px;
+}
