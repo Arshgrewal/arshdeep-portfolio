@@ -181,7 +181,7 @@ Prepared online orders, managed inventory, and worked with different departments
 
 <p>Email: arshgrewal27@gmail.com</p>
 <p>Phone: (782) 641-3463</p>
-
+<p>View my portfolio: https://docs.google.com/spreadsheets/d/1jMoOVJiUsW_YB9JN4-RWPTfVAa7NoIKj/edit?usp=sharing&ouid=117434901635865807516&rtpof=true&sd=true</p>
 </div>
 
 </body>
