@@ -126,7 +126,7 @@ Business diploma · CompTIA A+
 
 <div class="job">
 <div class="job-title">Financial Services Representative — CIBC</div>
-<div class="small">Halifax · July 2024 – Present</div>
+<div class="small">Halifax · July 2025 – October 2026</div>
 <p>
 Handle day-to-day banking transactions, assist customers with their accounts, and answer general questions. 
 Make sure everything is processed correctly and help resolve issues when they come up.
@@ -143,7 +143,7 @@ Worked independently and handled problems without supervision.
 </div>
 
 <div class="job">
-<div class="job-title">Operations Manager — Domino’s Pizza</div>
+<div class="job-title">Operations Manager — Domino’s </div>
 <div class="small">Halifax · 2021 – 2024</div>
 <p>
 Handled scheduling, inventory, staff coordination, and daily store operations. 
@@ -171,7 +171,8 @@ Prepared online orders, managed inventory, and worked with different departments
 
 <ul>
 <li>SAP · ERP · WMS</li>
-<li>MS Excel (reports, basic analysis)</li>
+<li>MS Excel[ Portfolio link attached in bottom ](reports, basic analysis)</li>
+<li>Pivot tables, XLOOKUPS/VLOOKUP and Data Analysis </li> 
 <li>Customer handling</li>
 <li>Inventory & operations</li>
 <li>Time management</li>
